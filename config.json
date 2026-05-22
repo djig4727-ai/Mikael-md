@@ -1,0 +1,20 @@
+{
+  "users": {
+    "221789660254": {
+      "sudoList": [
+        "221789660254@s.whatsapp.net",
+        "221789660254@s.whatsapp.net"
+      ],
+      "tagAudioPath": "database/Mikael.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
